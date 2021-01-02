@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/12/26/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>指南</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Markdown 操作指南</title>
     <url>/2020/12/26/Markdown-%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/</url>
     <content><![CDATA[<h1 id="Markdown-操作"><a href="#Markdown-操作" class="headerlink" title="Markdown 操作"></a>Markdown 操作</h1><h2 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># 一级标题</span><br></pre></td></tr></table></figure>
@@ -127,6 +107,26 @@ cond(no)->op</textarea><textarea id="flowchart-0-options" style="display: none">
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/12/26/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>指南</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>沉思录 第一卷</title>
     <url>/2020/12/27/%E6%B2%89%E6%80%9D%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%8D%B7/</url>
     <content><![CDATA[<h1 id="卷一"><a href="#卷一" class="headerlink" title="卷一"></a>卷一</h1><ol>
@@ -150,15 +150,133 @@ cond(no)->op</textarea><textarea id="flowchart-0-options" style="display: none">
       </tags>
   </entry>
   <entry>
+    <title>西班牙语语法——代词</title>
+    <url>/2021/01/01/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E6%B3%95%E2%80%94%E2%80%94%E4%BB%A3%E8%AF%8D/</url>
+    <content><![CDATA[<h1 id="西班牙语语法"><a href="#西班牙语语法" class="headerlink" title="西班牙语语法"></a>西班牙语语法</h1><h2 id="代词"><a href="#代词" class="headerlink" title="代词"></a>代词</h2><h3 id="“tu”还是“usted”"><a href="#“tu”还是“usted”" class="headerlink" title="“tú”还是“usted”"></a>“tú”还是“usted”</h3><p>我们在面试中与经理交流或者与朋友出去玩时, 会使用不同的语言表达方式。这就是所谓的不同措辞！在本语法部分中，你将学习如何在不同的场合使用“tú”和“usted”称呼某人。</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center">跟朋友说话</th>
+<th style="text-align:center">跟经理说话</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Estoy bien, ¿y tú?</td>
+<td style="text-align:center">Estoy bien, ¿y usted?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> 在西班牙和大多数西班牙语国家/地区，我们在非正式场合以及熟人之间使用“tú”。</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Hola Federico, ¿cómo estás? (你好， 费德里科， 最近怎么样？)</td>
+</tr>
+<tr>
+<td style="text-align:center">Muy bien, ¿y tú? （你朋友怎么样？)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>在书写时，请注意在“tú”上添加变音符号。这个符号不会影响该单词的发音方法，却是区分该单词与“tu”(表示“你的”)的重要标记。</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">¿Cómo estás tú? (你好吗/你怎么样？)</td>
+</tr>
+<tr>
+<td style="text-align:center">¿Cómo está tu amigo? (你朋友怎么样？)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>随着对西班牙语的不断学习，你将了解不同国家/地区说西班牙语的不同风格。我们不会重点讲解这些内容，但意识到这些不同会对你有所帮助。例如，称呼“你/您”有三种形式：“tu”、“usted”和“vos”。“Vos”主要在阿根廷、乌拉圭和巴拉圭使用，但是，玻利维亚或哥斯达黎加等其他拉丁美洲/地区也会说这个词。</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Me llamo Valentina, ¿y vos? (我叫瓦伦蒂娜， 你呢？)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>在西班牙和大多数西班牙国家/地区，在正式场合，例如在工作中和客户交谈时或与比我们年长者交谈时，我们会使用“usted”。在拉丁美洲，“usted”比在西班牙常用。又是我们甚至使用它来称呼朋友或家人。<br>如果不确定“tú”和“usted”哪个更合适，那么在第一次与西班牙的人说话时，都可以使用“usted”。</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Buenas tardes señor Martinez. ¿Cómo está <em>usted</em> ? (下午好，马丁内斯先生。)</td>
+</tr>
+<tr>
+<td style="text-align:center">Bien, gracias. ¿Y <em>usted</em> ? （我挺好的，谢谢。您呢？）</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>“usted”采用与“él”和“ella”（他/她）相同的动词形式。带下划线的部分时“estar”（系动词）的相应动词形式， 我们一起来看一下。</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">él <em>está</em> - 他是</td>
+</tr>
+<tr>
+<td style="text-align:center">ella <em>está</em> - 她是</td>
+</tr>
+<tr>
+<td style="text-align:center">usted <em>está</em> - 您是</td>
+</tr>
+</tbody>
+</table>
+</div>
+]]></content>
+      <categories>
+        <category>西班牙语</category>
+      </categories>
+      <tags>
+        <tag>语法</tag>
+        <tag>代词</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>西班牙语语法——规则动词</title>
     <url>/2021/01/01/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E8%AF%AD%E6%B3%95%E2%80%94%E2%80%94%E8%A7%84%E5%88%99%E5%8A%A8%E8%AF%8D/</url>
-    <content><![CDATA[<p>最基本的动词形式成为“infinitivo”（不定式）。<br>在西班牙语中，我们有三个不定式词尾，它们可以指出动词属于哪一组：-ar、-er、-ir。</p>
+    <content><![CDATA[<h1 id="西班牙语语法"><a href="#西班牙语语法" class="headerlink" title="西班牙语语法"></a>西班牙语语法</h1><h2 id="规则动词"><a href="#规则动词" class="headerlink" title="规则动词"></a>规则动词</h2><p>最基本的动词形式成为“infinitivo”（不定式）。<br>在西班牙语中，我们有三个不定式词尾，它们可以指出动词属于哪一组：-ar、-er、-ir。</p>
 <div class="table-container">
 <table>
 <thead>
 <tr>
 <th style="text-align:left"></th>
-<th></th>
 </tr>
 </thead>
 <tbody>
@@ -348,126 +466,8 @@ cond(no)->op</textarea><textarea id="flowchart-0-options" style="display: none">
         <category>西班牙语</category>
       </categories>
       <tags>
-        <tag>动词</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>西班牙语语法——代词</title>
-    <url>/2021/01/01/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E6%B3%95%E2%80%94%E2%80%94%E4%BB%A3%E8%AF%8D/</url>
-    <content><![CDATA[<h1 id="西班牙语法"><a href="#西班牙语法" class="headerlink" title="西班牙语法"></a>西班牙语法</h1><h2 id="代词"><a href="#代词" class="headerlink" title="代词"></a>代词</h2><h3 id="“tu”还是“usted”"><a href="#“tu”还是“usted”" class="headerlink" title="“tú”还是“usted”"></a>“tú”还是“usted”</h3><p>我们在面试中与经理交流或者与朋友出去玩时, 会使用不同的语言表达方式。这就是所谓的不同措辞！在本语法部分中，你将学习如何在不同的场合使用“tú”和“usted”称呼某人。</p>
-<div class="table-container">
-<table>
-<thead>
-<tr>
-<th style="text-align:center">跟朋友说话</th>
-<th style="text-align:center">跟经理说话</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Estoy bien, ¿y tú?</td>
-<td style="text-align:center">Estoy bien, ¿y usted?</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p> 在西班牙和大多数西班牙语国家/地区，我们在非正式场合以及熟人之间使用“tú”。</p>
-<div class="table-container">
-<table>
-<thead>
-<tr>
-<th style="text-align:center"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Hola Federico, ¿cómo estás? (你好， 费德里科， 最近怎么样？)</td>
-</tr>
-<tr>
-<td style="text-align:center">Muy bien, ¿y tú? （你朋友怎么样？)</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>在书写时，请注意在“tú”上添加变音符号。这个符号不会影响该单词的发音方法，却是区分该单词与“tu”(表示“你的”)的重要标记。</p>
-<div class="table-container">
-<table>
-<thead>
-<tr>
-<th style="text-align:center"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">¿Cómo estás tú? (你好吗/你怎么样？)</td>
-</tr>
-<tr>
-<td style="text-align:center">¿Cómo está tu amigo? (你朋友怎么样？)</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>随着对西班牙语的不断学习，你将了解不同国家/地区说西班牙语的不同风格。我们不会重点讲解这些内容，但意识到这些不同会对你有所帮助。例如，称呼“你/您”有三种形式：“tu”、“usted”和“vos”。“Vos”主要在阿根廷、乌拉圭和巴拉圭使用，但是，玻利维亚或哥斯达黎加等其他拉丁美洲/地区也会说这个词。</p>
-<div class="table-container">
-<table>
-<thead>
-<tr>
-<th style="text-align:center"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Me llamo Valentina, ¿y vos? (我叫瓦伦蒂娜， 你呢？)</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>在西班牙和大多数西班牙国家/地区，在正式场合，例如在工作中和客户交谈时或与比我们年长者交谈时，我们会使用“usted”。在拉丁美洲，“usted”比在西班牙常用。又是我们甚至使用它来称呼朋友或家人。<br>如果不确定“tú”和“usted”哪个更合适，那么在第一次与西班牙的人说话时，都可以使用“usted”。</p>
-<div class="table-container">
-<table>
-<thead>
-<tr>
-<th style="text-align:center"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">Buenas tardes señor Martinez. ¿Cómo está <em>usted</em> ? (下午好，马丁内斯先生。)</td>
-</tr>
-<tr>
-<td style="text-align:center">Bien, gracias. ¿Y <em>usted</em> ? （我挺好的，谢谢。您呢？）</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>“usted”采用与“él”和“ella”（他/她）相同的动词形式。带下划线的部分时“estar”（系动词）的相应动词形式， 我们一起来看一下。</p>
-<div class="table-container">
-<table>
-<thead>
-<tr>
-<th style="text-align:center"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">él <em>está</em> - 他是</td>
-</tr>
-<tr>
-<td style="text-align:center">ella <em>está</em> - 她是</td>
-</tr>
-<tr>
-<td style="text-align:center">usted <em>está</em> - 您是</td>
-</tr>
-</tbody>
-</table>
-</div>
-]]></content>
-      <categories>
-        <category>西班牙语</category>
-      </categories>
-      <tags>
         <tag>语法</tag>
-        <tag>代词</tag>
+        <tag>动词</tag>
       </tags>
   </entry>
 </search>
