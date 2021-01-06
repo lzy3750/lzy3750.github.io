@@ -127,26 +127,488 @@ cond(no)->op</textarea><textarea id="flowchart-0-options" style="display: none">
       </tags>
   </entry>
   <entry>
-    <title>沉思录 第一卷</title>
-    <url>/2020/12/27/%E6%B2%89%E6%80%9D%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%8D%B7/</url>
-    <content><![CDATA[<h1 id="卷一"><a href="#卷一" class="headerlink" title="卷一"></a>卷一</h1><ol>
-<li>从我的祖父韦鲁斯我学习了和蔼待人之道，以及如何控制自己的感情。</li>
-<li>别人对我父亲的称赞和我自己对他的回忆中，我学习了谦逊和勇敢。</li>
-<li>从我的母亲我学习了敬畏上帝，慷慨；不仅是不肯为恶，甚至不起为恶的念头；并且进一步，过朴实的生活，摒绝一切富贵之家的恶习。</li>
-<li>从我的曾祖父我学习到，在求学方面无须进入公立学校，而是要延请优秀的家庭教师，并且在此方面要不惜斥用巨资。</li>
-<li>我的教师训导我：不要在竞车场中参加拥护蓝背心派或绿背心一派，也不要在比武场中参加拥护那轻盾武士或重盾武士；不要避免劳苦，要减少欲望，凡事要自己动手做，少管别人的闲事，不可听信就信。</li>
-<li>戴奥格奈特斯训导我：不要关心琐细的事情；不要听信奇迹贩子与巫师们所说的有关鬼符咒的话，以及类似的怪话；不要养鹌鹑，不要对类似的游戏发生兴趣；听了别人的直言不要愠怒，要勤修哲学，先研读Baccheius再诵习Tandasis与Marchinus；从幼时即练习写对话；并且喜欢小木床、羊皮以及其他一切与希腊苦攻哲学有关的事物。</li>
-<li>由于拉斯蒂克斯，我才注意到我的品格有改进与锻炼的必要；不要误入诡辩的邪途；不要写空疏的文字，不要作老生常谈，不要装作为一个健者（雄才大略之人）或无私的人；要避免修辞、诗歌与绮丽的文辞；不要穿着长袍在屋里踱来踱去，以及类似的荒谬举动；写信不要装腔作势，要写得象听自己从Sinuessa写给我的母亲的那封信得样子；对于那些容易发脾气冒犯人的人们，要随时准备和平相处，并且如果他们有意悔过知返，要半路迎上去；读书要细心，不可粗枝大叶不求甚解；对于每一个鼓舌如簧的人，不可太快表示同意；最后，由于他，我才得读到埃皮克提图得《回忆录》，这本书是他从私人庋藏中拿出来借给我的。</li>
-<li>从阿波娄尼阿斯我学习了自恃自立的精神和坚定不移的决心，任何事都不听从运气；除了理性之外，绝不仰仗任何东西；在急剧的痛苦中，纵然是一个孩子的夭殇，或是疾病缠身，也永不改变常态；我看出他本身就是一个活的榜样，一个人可以是很威严猛厉，同时也是很柔和，诲人从不知倦；我还看出，他有实际经验，讲起道来从容不迫，但他从不认为这是他的特长；我还学得了如何接受朋友们的恩惠，既不可因此而丧失自尊，亦不可漠然地视为事之当然。</li>
-<li>从赛克斯特斯我体会到一个和善的性格，一个家长控制下的家庭；合于自然之道的人生观；严肃而不虚娇；随时小心照顾到朋友们的利益；对于没有知识的人和不讲道理的人能够容忍。  <br> 他善于适应，和他在一起比听受阿谀还令人愉快，同时与他交往接触的人无不对他极度钦仰；对于人生的基本原则之如何发掘、如何安排，他有把握，他有办法。  <br> 他从不表现出愠怒或其他的情绪，而是完全超出情绪的影响之外，永远是和蔼可亲；对于赞美而不誉扬过分，饱学而不炫弄。</li>
-<li></li>
-</ol>
+    <title>西班牙语单词</title>
+    <url>/2021/01/05/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E5%8D%95%E8%AF%8D/</url>
+    <content><![CDATA[<h1 id="西班牙语单词"><a href="#西班牙语单词" class="headerlink" title="西班牙语单词"></a>西班牙语单词</h1><div class="table-container">
+<table>
+<thead>
+<tr>
+<th style="text-align:center">西班牙语</th>
+<th style="text-align:center">中文</th>
+<th style="text-align:center">English</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">¡Hola!</td>
+<td style="text-align:center">你好！</td>
+<td style="text-align:center">Hello</td>
+</tr>
+<tr>
+<td style="text-align:center">¡Qué guay!</td>
+<td style="text-align:center">太妙了!</td>
+<td style="text-align:center">Great!</td>
+</tr>
+<tr>
+<td style="text-align:center">¿Cómo estás?</td>
+<td style="text-align:center">你怎么样啊？</td>
+<td style="text-align:center">How are you doing?</td>
+</tr>
+<tr>
+<td style="text-align:center">¿Cómo te llamas?</td>
+<td style="text-align:center">你叫什么名字？</td>
+<td style="text-align:center">What is your name?</td>
+</tr>
+<tr>
+<td style="text-align:center">¿De dónde eres?</td>
+<td style="text-align:center">你来自哪里？</td>
+<td style="text-align:center">Where are you from?</td>
+</tr>
+<tr>
+<td style="text-align:center">¿Dónde trabajas?</td>
+<td style="text-align:center">你在哪里工作？</td>
+<td style="text-align:center">Where do you work?</td>
+</tr>
+<tr>
+<td style="text-align:center">¿En qué trabajas?</td>
+<td style="text-align:center">你做什么工作？</td>
+<td style="text-align:center">What’s your job?</td>
+</tr>
+<tr>
+<td style="text-align:center">¿Hablas…?</td>
+<td style="text-align:center">你会说…吗？/ 你懂…吗？</td>
+<td style="text-align:center">Do you know/speak…?</td>
+</tr>
+<tr>
+<td style="text-align:center">¿Puedes hablar más despacio?</td>
+<td style="text-align:center">你说慢点行吗？</td>
+<td style="text-align:center">Can you speak slower?</td>
+</tr>
+<tr>
+<td style="text-align:center">¿Qué lenguas hablas?</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">¿Qué tal?</td>
+<td style="text-align:center">你怎么样啊？</td>
+<td style="text-align:center">What’s up?</td>
+</tr>
+<tr>
+<td style="text-align:center">¿ Y tú?</td>
+<td style="text-align:center">你呢？</td>
+<td style="text-align:center">and you?</td>
+</tr>
+<tr>
+<td style="text-align:center">alto/alta</td>
+<td style="text-align:center">高</td>
+<td style="text-align:center">tall</td>
+</tr>
+<tr>
+<td style="text-align:center">aprender</td>
+<td style="text-align:center">学习</td>
+<td style="text-align:center">learn</td>
+</tr>
+<tr>
+<td style="text-align:center">bajo / baja</td>
+<td style="text-align:center">矮</td>
+<td style="text-align:center">short</td>
+</tr>
+<tr>
+<td style="text-align:center">Bien, gracias</td>
+<td style="text-align:center">很好，谢谢</td>
+<td style="text-align:center">I’m fine, thank you</td>
+</tr>
+<tr>
+<td style="text-align:center">brasileño / brasileña</td>
+<td style="text-align:center">巴西人</td>
+<td style="text-align:center">Brazilian</td>
+</tr>
+<tr>
+<td style="text-align:center">cansado / cansada</td>
+<td style="text-align:center">很累</td>
+<td style="text-align:center">tire</td>
+</tr>
+<tr>
+<td style="text-align:center">comprender</td>
+<td style="text-align:center">理解</td>
+<td style="text-align:center">comprehend</td>
+</tr>
+<tr>
+<td style="text-align:center">cuatro, cinco, seis</td>
+<td style="text-align:center">四，五，六</td>
+<td style="text-align:center">four, five, six</td>
+</tr>
+<tr>
+<td style="text-align:center">el abogado / la abogada</td>
+<td style="text-align:center">律师</td>
+<td style="text-align:center">lawyer</td>
+</tr>
+<tr>
+<td style="text-align:center">el abuelo / la abuela</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">el actor / la actriz</td>
+<td style="text-align:center">演员</td>
+<td style="text-align:center">actor/actress</td>
+</tr>
+<tr>
+<td style="text-align:center">el amigo / la amiga</td>
+<td style="text-align:center">朋友</td>
+<td style="text-align:center">friend</td>
+</tr>
+<tr>
+<td style="text-align:center">el bolso</td>
+<td style="text-align:center">包、背包、袋子、手提包、旅行包、塑料袋</td>
+<td style="text-align:center">bag</td>
+</tr>
+<tr>
+<td style="text-align:center">el camarero / la camarera</td>
+<td style="text-align:center">服务员（男）/服务员 （女）</td>
+<td style="text-align:center">waiter/waitress</td>
+</tr>
+<tr>
+<td style="text-align:center">el compañero de trabajo / la compañera de trabajo</td>
+<td style="text-align:center">同事</td>
+<td style="text-align:center">colleague</td>
+</tr>
+<tr>
+<td style="text-align:center">el dependiente / la dependienta</td>
+<td style="text-align:center">店员</td>
+<td style="text-align:center">clerk</td>
+</tr>
+<tr>
+<td style="text-align:center">el enfermero / la enfermera</td>
+<td style="text-align:center">护士</td>
+<td style="text-align:center">nurse</td>
+</tr>
+<tr>
+<td style="text-align:center">él es</td>
+<td style="text-align:center">他是</td>
+<td style="text-align:center">He is</td>
+</tr>
+<tr>
+<td style="text-align:center">el estudiante / la estudiante</td>
+<td style="text-align:center">学生</td>
+<td style="text-align:center">student</td>
+</tr>
+<tr>
+<td style="text-align:center">el hermano / la hermana</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">el hijo / la hija</td>
+<td style="text-align:center">儿子/女儿</td>
+<td style="text-align:center">son / daughter</td>
+</tr>
+<tr>
+<td style="text-align:center">el hombre</td>
+<td style="text-align:center">男人</td>
+<td style="text-align:center">man</td>
+</tr>
+<tr>
+<td style="text-align:center">el libro</td>
+<td style="text-align:center">书、书籍、图书</td>
+<td style="text-align:center">book</td>
+</tr>
+<tr>
+<td style="text-align:center">el médico / la médica</td>
+<td style="text-align:center">医生</td>
+<td style="text-align:center">doctor</td>
+</tr>
+<tr>
+<td style="text-align:center">el móvil</td>
+<td style="text-align:center">手机</td>
+<td style="text-align:center">mobile phone</td>
+</tr>
+<tr>
+<td style="text-align:center">el nieto / la nieta</td>
+<td style="text-align:center">孙子、外孙子/孙女、外孙女</td>
+<td style="text-align:center">grandson / granddaughter</td>
+</tr>
+<tr>
+<td style="text-align:center">el ordenador</td>
+<td style="text-align:center">电脑、计算机</td>
+<td style="text-align:center">computer</td>
+</tr>
+<tr>
+<td style="text-align:center">el padre</td>
+<td style="text-align:center">爸爸， 父亲</td>
+<td style="text-align:center">father</td>
+</tr>
+<tr>
+<td style="text-align:center">el periódico</td>
+<td style="text-align:center">报纸</td>
+<td style="text-align:center">newspaper</td>
+</tr>
+<tr>
+<td style="text-align:center">el primo / la prima</td>
+<td style="text-align:center">堂兄（弟、姐、妹）、表兄（弟、姐、妹）</td>
+<td style="text-align:center">Cousin</td>
+</tr>
+<tr>
+<td style="text-align:center">el profesor / la profesora</td>
+<td style="text-align:center">教授</td>
+<td style="text-align:center">professor</td>
+</tr>
+<tr>
+<td style="text-align:center">el reloj</td>
+<td style="text-align:center">手表</td>
+<td style="text-align:center">watch</td>
+</tr>
+<tr>
+<td style="text-align:center">el tío / la tía</td>
+<td style="text-align:center">伯伯、叔叔、舅舅、姑父、姨夫/姑姑、姨妈、伯母、婶婶、舅妈</td>
+<td style="text-align:center">uncle / aunt</td>
+</tr>
+<tr>
+<td style="text-align:center">el veterinario / la veterinaria</td>
+<td style="text-align:center">兽医</td>
+<td style="text-align:center">veterinary</td>
+</tr>
+<tr>
+<td style="text-align:center">ella es</td>
+<td style="text-align:center">她是</td>
+<td style="text-align:center">she is</td>
+</tr>
+<tr>
+<td style="text-align:center">Encantado / Encantada</td>
+<td style="text-align:center">幸会</td>
+<td style="text-align:center">Nice to meet you</td>
+</tr>
+<tr>
+<td style="text-align:center">escribir</td>
+<td style="text-align:center">写、编写、写作、书写</td>
+<td style="text-align:center">write</td>
+</tr>
+<tr>
+<td style="text-align:center">Esta es… / Este es…</td>
+<td style="text-align:center">这是…(介绍女人)/ 这是…（介绍男人）</td>
+<td style="text-align:center">This is</td>
+</tr>
+<tr>
+<td style="text-align:center">estadounidense</td>
+<td style="text-align:center">美国人</td>
+<td style="text-align:center">American</td>
+</tr>
+<tr>
+<td style="text-align:center">estresado / estresada</td>
+<td style="text-align:center">压力大</td>
+<td style="text-align:center">stressful</td>
+</tr>
+<tr>
+<td style="text-align:center">estudiar</td>
+<td style="text-align:center">学习、研究、调查</td>
+<td style="text-align:center">study</td>
+</tr>
+<tr>
+<td style="text-align:center">guapo / guapa</td>
+<td style="text-align:center">漂亮</td>
+<td style="text-align:center">beautiful</td>
+</tr>
+<tr>
+<td style="text-align:center">inglés / inglesa</td>
+<td style="text-align:center">英国的、英国人的</td>
+<td style="text-align:center">British</td>
+</tr>
+<tr>
+<td style="text-align:center">la cartera</td>
+<td style="text-align:center">钱包</td>
+<td style="text-align:center">wallet</td>
+</tr>
+<tr>
+<td style="text-align:center">la madre</td>
+<td style="text-align:center">妈妈/母亲</td>
+<td style="text-align:center">mother</td>
+</tr>
+<tr>
+<td style="text-align:center">la mujer</td>
+<td style="text-align:center">女人</td>
+<td style="text-align:center">woman</td>
+</tr>
+<tr>
+<td style="text-align:center">las gafas</td>
+<td style="text-align:center">眼镜</td>
+<td style="text-align:center">glasses</td>
+</tr>
+<tr>
+<td style="text-align:center">las llaves</td>
+<td style="text-align:center">钥匙</td>
+<td style="text-align:center">keys</td>
+</tr>
+<tr>
+<td style="text-align:center">leer</td>
+<td style="text-align:center">读、看、阅读、朗读</td>
+<td style="text-align:center">read</td>
+</tr>
+<tr>
+<td style="text-align:center">Lo siento</td>
+<td style="text-align:center">不好意思</td>
+<td style="text-align:center">Excuse me</td>
+</tr>
+<tr>
+<td style="text-align:center">Me llamo…</td>
+<td style="text-align:center">我叫…</td>
+<td style="text-align:center">My name is</td>
+</tr>
+<tr>
+<td style="text-align:center">moreno / morena</td>
+<td style="text-align:center">黑头发的</td>
+<td style="text-align:center">black hair</td>
+</tr>
+<tr>
+<td style="text-align:center">Muy bien.</td>
+<td style="text-align:center">很好</td>
+<td style="text-align:center">l am great.</td>
+</tr>
+<tr>
+<td style="text-align:center">No pasa nada</td>
+<td style="text-align:center">没关系。</td>
+<td style="text-align:center">Nothing happens</td>
+</tr>
+<tr>
+<td style="text-align:center">nueve, diez</td>
+<td style="text-align:center">九、十</td>
+<td style="text-align:center">nine, ten</td>
+</tr>
+<tr>
+<td style="text-align:center">Para mí…</td>
+<td style="text-align:center">给我…</td>
+<td style="text-align:center">I would like…</td>
+</tr>
+<tr>
+<td style="text-align:center">polaco / polaca</td>
+<td style="text-align:center">波兰人</td>
+<td style="text-align:center">Polish</td>
+</tr>
+<tr>
+<td style="text-align:center">practicar</td>
+<td style="text-align:center">练习、实践、实习、训练、习惯、惯例、做法</td>
+<td style="text-align:center">practice</td>
+</tr>
+<tr>
+<td style="text-align:center">Regular</td>
+<td style="text-align:center">一般。</td>
+<td style="text-align:center">regular</td>
+</tr>
+<tr>
+<td style="text-align:center">rubio / rubia</td>
+<td style="text-align:center">金色头发</td>
+<td style="text-align:center">blonde hair</td>
+</tr>
+<tr>
+<td style="text-align:center">simpático / simpática</td>
+<td style="text-align:center">好的</td>
+<td style="text-align:center">nice</td>
+</tr>
+<tr>
+<td style="text-align:center">siete, ocho</td>
+<td style="text-align:center">七、八</td>
+<td style="text-align:center">seven, eight</td>
+</tr>
+<tr>
+<td style="text-align:center">Soy…</td>
+<td style="text-align:center">我是…</td>
+<td style="text-align:center">I am</td>
+</tr>
+<tr>
+<td style="text-align:center">turco / turca</td>
+<td style="text-align:center">土耳其人</td>
+<td style="text-align:center">Turk</td>
+</tr>
+<tr>
+<td style="text-align:center">tú eres</td>
+<td style="text-align:center">你是</td>
+<td style="text-align:center">you are</td>
+</tr>
+<tr>
+<td style="text-align:center">un bocadillo</td>
+<td style="text-align:center">一个三明治</td>
+<td style="text-align:center">a sandwich</td>
+</tr>
+<tr>
+<td style="text-align:center">un café con leche</td>
+<td style="text-align:center">一杯咖啡，加奶</td>
+<td style="text-align:center">a cup of coffee with milk</td>
+</tr>
+<tr>
+<td style="text-align:center">un café solo</td>
+<td style="text-align:center">一杯黑咖啡</td>
+<td style="text-align:center">a black coffee</td>
+</tr>
+<tr>
+<td style="text-align:center">un hospital</td>
+<td style="text-align:center">一家医院</td>
+<td style="text-align:center">a hospital</td>
+</tr>
+<tr>
+<td style="text-align:center">un restaurante</td>
+<td style="text-align:center">一家餐馆</td>
+<td style="text-align:center">a restaurant</td>
+</tr>
+<tr>
+<td style="text-align:center">una cerveza</td>
+<td style="text-align:center">一杯啤酒</td>
+<td style="text-align:center">a bottle of beer</td>
+</tr>
+<tr>
+<td style="text-align:center">una clínica</td>
+<td style="text-align:center">一家诊所</td>
+<td style="text-align:center">a clinic</td>
+</tr>
+<tr>
+<td style="text-align:center">una escuela</td>
+<td style="text-align:center">一所学校</td>
+<td style="text-align:center">a school</td>
+</tr>
+<tr>
+<td style="text-align:center">una oficina</td>
+<td style="text-align:center">一个办公室</td>
+<td style="text-align:center">an office</td>
+</tr>
+<tr>
+<td style="text-align:center">una tienda</td>
+<td style="text-align:center">一家商店</td>
+<td style="text-align:center">a shop</td>
+</tr>
+<tr>
+<td style="text-align:center">uno, dos, tres</td>
+<td style="text-align:center">一、二、三</td>
+<td style="text-align:center">one, two, three</td>
+</tr>
+<tr>
+<td style="text-align:center">usted es</td>
+<td style="text-align:center">您是</td>
+<td style="text-align:center">you are</td>
+</tr>
+<tr>
+<td style="text-align:center">Vale.</td>
+<td style="text-align:center">好的/好吧/可以。</td>
+<td style="text-align:center">OK</td>
+</tr>
+<tr>
+<td style="text-align:center">Yo quiero…</td>
+<td style="text-align:center">我想要…</td>
+<td style="text-align:center">I want</td>
+</tr>
+<tr>
+<td style="text-align:center">yo soy</td>
+<td style="text-align:center">我是</td>
+<td style="text-align:center">I am</td>
+</tr>
+</tbody>
+</table>
+</div>
 ]]></content>
       <categories>
-        <category>文摘</category>
+        <category>西班牙语</category>
       </categories>
       <tags>
-        <tag>沉思录</tag>
+        <tag>西班牙语</tag>
+        <tag>单词</tag>
       </tags>
   </entry>
   <entry>
@@ -468,6 +930,29 @@ cond(no)->op</textarea><textarea id="flowchart-0-options" style="display: none">
       <tags>
         <tag>语法</tag>
         <tag>动词</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>沉思录 第一卷</title>
+    <url>/2020/12/27/%E6%B2%89%E6%80%9D%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%8D%B7/</url>
+    <content><![CDATA[<h1 id="卷一"><a href="#卷一" class="headerlink" title="卷一"></a>卷一</h1><ol>
+<li>从我的祖父韦鲁斯我学习了和蔼待人之道，以及如何控制自己的感情。</li>
+<li>别人对我父亲的称赞和我自己对他的回忆中，我学习了谦逊和勇敢。</li>
+<li>从我的母亲我学习了敬畏上帝，慷慨；不仅是不肯为恶，甚至不起为恶的念头；并且进一步，过朴实的生活，摒绝一切富贵之家的恶习。</li>
+<li>从我的曾祖父我学习到，在求学方面无须进入公立学校，而是要延请优秀的家庭教师，并且在此方面要不惜斥用巨资。</li>
+<li>我的教师训导我：不要在竞车场中参加拥护蓝背心派或绿背心一派，也不要在比武场中参加拥护那轻盾武士或重盾武士；不要避免劳苦，要减少欲望，凡事要自己动手做，少管别人的闲事，不可听信就信。</li>
+<li>戴奥格奈特斯训导我：不要关心琐细的事情；不要听信奇迹贩子与巫师们所说的有关鬼符咒的话，以及类似的怪话；不要养鹌鹑，不要对类似的游戏发生兴趣；听了别人的直言不要愠怒，要勤修哲学，先研读Baccheius再诵习Tandasis与Marchinus；从幼时即练习写对话；并且喜欢小木床、羊皮以及其他一切与希腊苦攻哲学有关的事物。</li>
+<li>由于拉斯蒂克斯，我才注意到我的品格有改进与锻炼的必要；不要误入诡辩的邪途；不要写空疏的文字，不要作老生常谈，不要装作为一个健者（雄才大略之人）或无私的人；要避免修辞、诗歌与绮丽的文辞；不要穿着长袍在屋里踱来踱去，以及类似的荒谬举动；写信不要装腔作势，要写得象听自己从Sinuessa写给我的母亲的那封信得样子；对于那些容易发脾气冒犯人的人们，要随时准备和平相处，并且如果他们有意悔过知返，要半路迎上去；读书要细心，不可粗枝大叶不求甚解；对于每一个鼓舌如簧的人，不可太快表示同意；最后，由于他，我才得读到埃皮克提图得《回忆录》，这本书是他从私人庋藏中拿出来借给我的。</li>
+<li>从阿波娄尼阿斯我学习了自恃自立的精神和坚定不移的决心，任何事都不听从运气；除了理性之外，绝不仰仗任何东西；在急剧的痛苦中，纵然是一个孩子的夭殇，或是疾病缠身，也永不改变常态；我看出他本身就是一个活的榜样，一个人可以是很威严猛厉，同时也是很柔和，诲人从不知倦；我还看出，他有实际经验，讲起道来从容不迫，但他从不认为这是他的特长；我还学得了如何接受朋友们的恩惠，既不可因此而丧失自尊，亦不可漠然地视为事之当然。</li>
+<li>从赛克斯特斯我体会到一个和善的性格，一个家长控制下的家庭；合于自然之道的人生观；严肃而不虚娇；随时小心照顾到朋友们的利益；对于没有知识的人和不讲道理的人能够容忍。  <br> 他善于适应，和他在一起比听受阿谀还令人愉快，同时与他交往接触的人无不对他极度钦仰；对于人生的基本原则之如何发掘、如何安排，他有把握，他有办法。  <br> 他从不表现出愠怒或其他的情绪，而是完全超出情绪的影响之外，永远是和蔼可亲；对于赞美而不誉扬过分，饱学而不炫弄。</li>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>文摘</category>
+      </categories>
+      <tags>
+        <tag>沉思录</tag>
       </tags>
   </entry>
 </search>
